@@ -1,5 +1,5 @@
 # Fibonacci-Generator
-Create a Fibonacci function in JavaScript
+Created a Fibonacci function in JavaScript
 
 # To interact with Fibonacci follow these steps:
 1) Run the index.html into the browser.
